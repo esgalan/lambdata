@@ -1,4 +1,4 @@
-# Helper Functions
+# lambdata package
 ---
 ## Info
 ---
